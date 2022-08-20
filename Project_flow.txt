@@ -1,0 +1,9 @@
+-This project includes below functionalities
+
+Technologies used: Node Js, Express Js, MongoDB
+
+1. CRUD operations on user
+2. CRUD operations on post
+3. Follow & Unfollow particular user
+4. Get My friend's posts
+5. Simple registration & login(Not proper implementation like jwt)
